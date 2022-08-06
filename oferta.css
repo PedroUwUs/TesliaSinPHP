@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
+.elo{
+    display: flex;
+    flex-direction: row;
+}
+.logo{
+    margin-top: 20px;
+    position: relative;
+    left: 50%;
+    
+}
+.bodo{
+    background: #a93d90;
+
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to top, rgba(169, 61, 144, 0.5), rgba(230, 222, 233, 0.5));
+  
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to top, rgba(169, 61, 144, 0.5), rgba(230, 222, 233, 0.5))
+  
+}
+a{
+    font-family: 'Patua One';
+    color: black;
+    text-align: center;
+}
+.ofer{
+    text-align: left;
+   
+}
+.tese{
+    text-align: left;
+    margin-top: 40px;
+    font-family: 'Kaushan Script';
+}
+
+.col-4{
+    border: 1px rgb(58, 55, 52);
+    border-style:initial;
+
+    background: #a4418d;
+
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(to right, rgba(164, 65, 141, 0.5), rgba(153, 145, 156, 0.5));
+
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right, rgba(164, 65, 141, 0.5), rgba(153, 145, 156, 0.5))
+}
+.imago{
+    height: 100px;
+    background: #f093fb;
+
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(to right, rgba(240, 147, 251, 0.5), rgba(245, 87, 108, 0.5));
+
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right, rgba(240, 147, 251, 0.5), rgba(245, 87, 108, 0.5))
+    
+}
+.texto{
+    flex-direction: row;
+    text-align: center;
+    left: 450px;
+    padding-top: 40px;
+    margin-top: 20px;
+    font-family:'Patua One' ;
+}
+.texto2{
+    padding-top: 40px;
+    flex-direction: row;
+    text-align: center;
+    left: 500px;
+    margin-top: 20px;
+    font-family:'Patua One' ;
+}
+h3{
+    text-align: center;
+}
+.pocho{
+    text-align: center;
+}
+.jolo{
+    margin-left: 50px;
+}
+.p{
+    text-align: center;
+}
